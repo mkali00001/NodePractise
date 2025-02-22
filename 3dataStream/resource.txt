@@ -1,0 +1,4 @@
+Data Stream 
+    -stdin
+    -stdout
+    -stderr

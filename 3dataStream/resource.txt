@@ -2,3 +2,7 @@ Data Stream
     -stdin
     -stdout
     -stderr
+File Descriptor (with ervery process a number is attached which is known as fd 'file Descriptor')
+    -stdin - 0
+    -stdout - 1
+    -stder - 2

@@ -1,6 +1,5 @@
 {
   "dependencies": {
     "@types/node": "^22.13.5"
-  },
-  "type": "module"
+  }
 }
